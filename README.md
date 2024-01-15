@@ -1,7 +1,6 @@
-Behold my first python project I know the gui looks awefull but ill probably still use it here is a Chat GPT summary of that is in the code
+Behold my first python project I know the GUI looks awful but i'll probably still use it. Here is a Chat GPT summary of that is in the code
 
-ChatGPT
-Summary:
+ChatGPT Summary:
 The purpose of this code is to create a graphical user interface (GUI) using Tkinter for looking up information about
 different moons associated with a fictional entity called "Lethal Company." The user can select a moon from a dropdown menu,
 and upon clicking the "Submit" button, the code retrieves and displays details such as the minimum loot and loot density for
